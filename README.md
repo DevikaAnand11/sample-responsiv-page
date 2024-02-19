@@ -1,0 +1,1 @@
+# sample-responsiv-page
